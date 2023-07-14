@@ -211,16 +211,13 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
         name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
     image: evofin,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Yassin-Aru/EvoFin",
+    demo_link: "https://evofin.netlify.app/",
   },
   {
     name: "Youtbe Clone",
@@ -236,12 +233,13 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
     image: ytb,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Yassin-Aru/Youtube-Clone",
+    demo_link: "https://ytb-react-app.netlify.app/",
   },
   {
     name: "Articles Summerizer",
@@ -249,20 +247,21 @@ const projects = [
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "nextjs",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "restapi",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
     image: openai,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Yassin-Aru/Articles-Summarizer-",
+    demo_link: "https://artices-summarizer.netlify.app/",
   },
   {
     name: "MovoesList",
@@ -270,20 +269,21 @@ const projects = [
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "nextjs",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "restapi",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
     image: movies,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Yassin-Aru/Movies-App",
+    demo_link: "https://moviiezapp.netlify.app/",
   },
 ];
 

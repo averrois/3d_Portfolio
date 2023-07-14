@@ -1,0 +1,11 @@
+Model Information:
+* title:	Holograming Man
+* source:	https://sketchfab.com/3d-models/holograming-man-e749bf773cd34e3f965ad23d01b3cf06
+* author:	foxyvfx7867 (https://sketchfab.com/foxyvfx7867)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Holograming Man" (https://sketchfab.com/3d-models/holograming-man-e749bf773cd34e3f965ad23d01b3cf06) by foxyvfx7867 (https://sketchfab.com/foxyvfx7867) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
