@@ -4,25 +4,29 @@ import {
   creator,
   web,
   javascript,
-  typescript,
+  // typescript,
   html,
   css,
   reactjs,
-  redux,
+  // redux,
   tailwind,
   nodejs,
   mongodb,
   git,
   figma,
-  docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
-  jobit,
-  tripguide,
-  threejs,
+  // docker,
+  // carrent,
+  // jobit,
+  // tripguide,
+  // threejs,
+  upwork,
+  fiverr,
+  freelancer,
+  tce,
+  evofin,
+  ytb,
+  openai,
+  movies,
 } from "../assets";
 
 export const navLinks = [
@@ -72,18 +76,18 @@ const technologies = [
     name: "JavaScript",
     icon: javascript,
   },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
+  // {
+  //   name: "TypeScript",
+  //   icon: typescript,
+  // },
   {
     name: "React JS",
     icon: reactjs,
   },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
+  // {
+  //   name: "Redux Toolkit",
+  //   icon: redux,
+  // },
   {
     name: "Tailwind CSS",
     icon: tailwind,
@@ -96,10 +100,10 @@ const technologies = [
     name: "MongoDB",
     icon: mongodb,
   },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
+  // {
+  //   name: "Three JS",
+  //   icon: threejs,
+  // },
   {
     name: "git",
     icon: git,
@@ -108,63 +112,63 @@ const technologies = [
     name: "figma",
     icon: figma,
   },
-  {
-    name: "docker",
-    icon: docker,
-  },
+  // {
+  //   name: "docker",
+  //   icon: docker,
+  // },
 ];
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "Front-End",
+    company_name: "Fiverr",
+    icon: fiverr,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "March 2019 - April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Creating static web pages using HTML, CSS, and JavaScript on Fiverr to meet clients' needs.",
+      "Collaborating with clients to design visually appealing and functional web pages.",
+      "Implementing responsive layouts and cross-browser compatibility for seamless user experiences.",
+      "Delivering high-quality static web pages promptly and offering exceptional customer support.",
     ],
   },
   {
     title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    company_name: "Freelancer",
+    icon: freelancer,
+    iconBg: "#E6DEDD",
+    date: "Jan 2021 - Feb 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Redesigning web pages as a web developer on Freelancer.com, utilizing HTML, CSS, and JavaScript.",
+      "Collaborating closely with clients to understand their requirements and revamp their web pages with modern design techniques.",
+      "Implementing responsive layouts and cross-browser compatibility to enhance user experiences and engagement.",
+      "Delivering high-quality redesigned web pages within project timelines, ensuring client satisfaction and positive outcomes.",
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    title: "Front-End",
+    company_name: "Training Edge Consutling",
+    icon: tce,
     iconBg: "#E6DEDD",
+    date: "January 2023 - June 2023",
+    points: [
+      "Contributing as a front-end developer specializing in HTML, CSS, JavaScript, and ReactJS at Training Edge Consulting, an esteemed agency.",
+      "Collaborating with cross-functional teams and utilizing my expertise to create exceptional web solutions and user interfaces.",
+      "Implementing responsive designs, seamless interactions, and cutting-edge technologies to deliver impactful user experiences.",
+      "Successfully completing stage projects with Training Edge Consulting, meeting project requirements, and exceeding client expectations.",
+    ],
+  },
+  {
+    title: "Web Designer | Front-End",
+    company_name: "UpWork",
+    icon: upwork,
+    iconBg: "#383E56",
     date: "Jan 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Offering web redesign services as a versatile web developer and Figma web designer on Upwork.",
+      "Collaborating closely with clients to comprehend their needs and revamp their web pages with a fresh and modern look.",
+      "Implementing responsive layouts, captivating visual designs, and cross-browser compatibility to elevate user experiences.",
+      "Delivering high-quality web redesign projects on time, meeting client expectations, and providing top-notch service on Upwork.",
     ],
   },
 ];
@@ -198,7 +202,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "EvoFin",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
@@ -215,11 +219,11 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: evofin,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Youtbe Clone",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
@@ -236,11 +240,11 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: ytb,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Articles Summerizer",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
@@ -257,7 +261,28 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: openai,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "MovoesList",
+    description:
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: movies,
     source_code_link: "https://github.com/",
   },
 ];

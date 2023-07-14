@@ -1,0 +1,11 @@
+Model Information:
+* title:	Genjasuo
+* source:	https://sketchfab.com/3d-models/genjasuo-f10883293a484863902d631e4471a07a
+* author:	Neek (https://sketchfab.com/n.diaz8991)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Genjasuo" (https://sketchfab.com/3d-models/genjasuo-f10883293a484863902d631e4471a07a) by Neek (https://sketchfab.com/n.diaz8991) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
