@@ -19,7 +19,7 @@ const Footer = () => {
             <span className="sr-only">GitHub</span>
             <FaGithub className="w-6 h-6" />
           </a>
-          <a href="https://www.figma.com/@booma_" target='_blank' className="text-gray-400 hover:text-gray-500">
+          <a href="https://www.figma.com/@yassin_aru" target='_blank' className="text-gray-400 hover:text-gray-500">
             <span className="sr-only">Figma</span>
             <FaFigma className="w-6 h-6" />
           </a>
