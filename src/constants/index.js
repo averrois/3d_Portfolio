@@ -204,7 +204,7 @@ const projects = [
   {
     name: "EvoFin",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "EvoFin: Your Futuristic Banking Solution Experience modern banking with EvoFin's futuristic web platform. Manage transactions, and achieve financial goals seamlessly.",
     tags: [
       {
         name: "react",
@@ -222,7 +222,7 @@ const projects = [
   {
     name: "Youtbe Clone",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Discover the power of Youtube Clone, a React-based web app that lets you explore videos, check estimated views, and find diffrent content. Your ultimate youtube.",
     tags: [
       {
         name: "react",
@@ -242,9 +242,9 @@ const projects = [
     demo_link: "https://ytb-react-app.netlify.app/",
   },
   {
-    name: "Articles Summerizer",
+    name: "Articles Summarizer",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Unlock the potential of Summify, a powerful web application crafted with React and REST API, designed to summarize articles effortlessly. save time with our technology.",
     tags: [
       {
         name: "react",
@@ -266,7 +266,7 @@ const projects = [
   {
     name: "MovoesList",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Discover MovoesList, a dynamic web app built using React and Movie API, providing seamless movie search functionality. Easily find your loved movies by name.",
     tags: [
       {
         name: "react",
